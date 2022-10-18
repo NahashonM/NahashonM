@@ -1,7 +1,6 @@
-# `Hi,`
-
-# `I’m Nahashon.`<br>
-#### `software engineer | Devops Engineer | Database Administrator`
+### `Hi,`
+### `I’m Nahashon.`<br>
+##### `software engineer | Devops Engineer | Database Administrator`
 #
 
 <!-- I am interested in web & desktop applications, android applications and operating systems
